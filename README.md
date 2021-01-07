@@ -58,7 +58,7 @@ and the last thing instancing objects by coordinates.But I need to make sure mea
                 dancer.instanceTo(placeholder)
 ```                  
 Arduino Scheme
-![Arduino_Scheme](https://i.imgur.com/2II52DF.jpg)
+![Arduino_Scheme](https://i.imgur.com/UnONcvD.png)
 
 
 Results:
