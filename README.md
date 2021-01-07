@@ -57,3 +57,10 @@ and the last thing instancing objects by coordinates.But I need to make sure mea
                 placeholder.setPos((-1)*dist*math.cos(math.radians(0))*math.cos(math.radians(v_angle)), dist*math.cos(math.radians(0))*math.sin(math.radians(v_angle)),0)
                 dancer.instanceTo(placeholder)
 ```                  
+Arduino Scheme
+![alt text](https://imgur.com/UnONcvD)
+
+
+Results:
+![alt text](https://imgur.com/2II52DF)
+![alt text](https://imgur.com/tHwkaIq)
